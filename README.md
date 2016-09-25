@@ -1,6 +1,6 @@
-# Restaurant Food Safety Inspections in King County, Washington (USA)
+# Restaurant Inspections in King County, Washington (USA)
 
-Looking into food safety inspection data for zip codes in King County (in progress).
+Looking into restaurant inspection data for zip codes in King County from the Public Health Department (in progress).
 
 ### About the data
 
