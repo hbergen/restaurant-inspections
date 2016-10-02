@@ -1,15 +1,15 @@
 # Restaurant Inspections in King County, Washington (USA)
 
-Looking into restaurant inspection data for zip codes in King County from the Public Health Department (in progress).
+The purpose of this project is to explore restaurant inspection data in King County.
 
 ### About the data
 
-King County provides an API to access the data in XML format.
+The King County Public Health Department provides an API to retrieve the data in XML format.
 
 API documentation can be found here:
 http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections/data.aspx
 
-Geographic and inspection details are included about each business within 'Business' element tags.
+The XML data contains 'Business' elements, within which geographic, inspection, and violation (if applicable) details are nested for each business.
 
 Below is some raw data in XML format for 1 sample business:
 
