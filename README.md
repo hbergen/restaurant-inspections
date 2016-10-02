@@ -1,10 +1,10 @@
 # Restaurant Inspections in King County, Washington (USA)
 
-The purpose of this project is to explore restaurant inspection data in King County.
+The purpose of this project is to explore public restaurant inspection records.
 
 ### About the data
 
-The King County Public Health Department provides an API to retrieve the data in XML format.
+The King County Public Health Department provides an API to retrieve the restaurant inspection data in XML format.
 
 API documentation can be found here:
 http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections/data.aspx
