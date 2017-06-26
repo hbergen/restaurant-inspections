@@ -2,3 +2,12 @@ __pycache__
 
 .ipynb_checkpoints/
 
+env/
+
+.DS_Store
+
+maps/.DS_Store
+
+*scratch.py
+
+*.p

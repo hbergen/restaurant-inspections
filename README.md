@@ -59,3 +59,15 @@ Below is some raw data in XML format for 1 sample business:
 </Inspection>
 </Business>
 ```
+
+### Requirements
+
+Scripts are compatible with python version 3.x and the packages listed in the file *requirements.txt*.
+
+To install all required packages in a virtual environment, run the following in terminal:
+
+```
+$ python3 -m pyenv env
+$ source env/bin/activate
+$ pip install -r requirements.txt
+```
